@@ -37,5 +37,6 @@ internal class Program
             Console.WriteLine("end: ");
             kraj = Console.ReadLine();
         }
+        Console.WriteLine("Commit za granu feature.");
     }
 }
